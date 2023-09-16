@@ -1,0 +1,1523 @@
+{
+	"snippets": {
+		"meet": "Please meet me 20 minutes prior to start time with all preflight items complete(Airworthiness, Weight and Balance, Weather, Preflight inspection, Check fuel/oil, Gather NOTAMS, Clean windscreen).",
+		"questions": "if you have any questions, feel free to contact me at 505-382-7034",
+		"readViewDo": "Please complete all Read, View, Do items prior to meeting me. Failure to do so may result in a unpreparedness fee",
+		"weight": "for weight and balance I weigh 165lb with a 10 lb bag",
+		"dutiesOfPic": "This flight is all on you, I will not be providing dual instruction. You will be the PIC",
+		"maneuverRefs": {
+			"Power-off180": "https://secure.atpflightschool.com/Student2/course-presenter.lasso?moduleID=3614&autoplay=true"
+		}
+	},
+	"private": {
+		"Lessons": [
+			{
+				"name": "FundamentalsAATD1",
+				"content": [
+					"Straight-and-levelflight",
+					"Climbs and descents",
+					"Turns",
+					"Speed changes",
+					"Flap setting changes",
+					"Use of trim to relieve control pressures"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Hold course and altitude steady without referencing the flight instruments",
+					"Make turns, climbs, and descents using only the sight picture for reference",
+					"Understand the purpose of trim and how to use it"
+				]
+			},
+			{
+				"name": "FundamentalsAATD2",
+				"content": [
+					"Intro to GPS: Direct enter enter, Frequencies, flight plan page",
+					"Straight and Level Flight",
+					"Climbs",
+					"Descents",
+					"Changing Airspeed in Level Flight"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Make appropriate corrections when left or right of centerline"
+				]
+			},
+			{
+				"name": "FundamentalsFlight",
+				"content": [
+					"Changing Airspeed in Level Flight",
+					"Changing Flap Settings",
+					"Trim Technique",
+					"Climbs",
+					"Descents",
+					"Level Turns",
+					"Normal Approach Landing"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Understand the concept of visual referances, and maintain a fixed visual referance during a given basic maneuver such as climbs and straight-and-level-flight",
+					"Perform changes in airspeeds and aircarft configurations without assistance",
+					"Understand the function and importance of proper trim technique",
+					"Taxi to the runway with minimal instructor intervention"
+				]
+			},
+			{
+				"name": "ManeuversAATD1",
+				"content": [
+					"Slow Flight",
+					"Power-off stall",
+					"Steep Turns",
+					"Rectangular Course",
+					"Basic Instrument Flight",
+					"Normal Approach and Landing"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Understand the purpose and overview of the assigned maneuvers",
+					"Run a checklist correctly, such as the before-takeoff checklist"
+				]
+			},
+			{
+				"name": "ManeuversAATD2",
+				"content": [
+					"Slow Flight",
+					"Power-off stall",
+					"Power-on stall",
+					"Steep Turns",
+					"Rectangular Course",
+					"S-Turns",
+					"Basic Instrument Flight",
+					"Normal Approach and Landing"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Fly the maneuvers by memory",
+					"Run a checklist correctly, such as the before-takeoff checklist",
+					"Has a clear understanding of maneuver during slow flight and stall recovery procedures",
+					"Understand wind drift and the proper correcitons to make to account for it",
+					"Understand the need for basic instrument skills"
+				]
+			},
+			{
+				"name": "ManeuversAATD3",
+				"content": [
+					"Slow Flight",
+					"Power-off stall",
+					"Power-on stall",
+					"Steep Turns",
+					"Rectangular Course",
+					"S-Turns",
+					"Turns Around a Point",
+					"Basic Instrument Flight"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Fly the maneuvers by memory",
+					"Run a checklist correctly, such as the before-takeoff checklist"
+				]
+			},
+			{
+				"name": "ManeuversAATD4",
+				"content": [
+					"Slow Flight",
+					"Power-off stall",
+					"Power-on stall",
+					"Steep Turns",
+					"Rectangular Course",
+					"S-Turns",
+					"Turns Around a Point",
+					"Basic Instrument Flight"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Fly the maneuvers by memory",
+					"Run a checklist correctly, such as the before-takeoff checklist"
+				]
+			},
+			{
+				"name": "ManeuversFlight",
+				"content": [
+					"Engine Starting",
+					"Taxiing",
+					"Before Takeoff Check",
+					"Maneuvering During Slow Flight",
+					"Power-off stall",
+					"Power-on stall",
+					"Steep Turns",
+					"Rectangular Course",
+					"S-Turns",
+					"Turns Around a Point",
+					"After Landing, Parking, and Securing"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Perform the preflight imspection using the preflight checklist with minimal instructor supervision",
+					"Perform at least one in-flight checklist with the help of the instructor",
+					"Perform all the maneuvers by memory without prompting from the instructor",
+					"Know what speed is appropriate for taxi, and taxi consistently with heels on the floor",
+					"Recognize the onset of a power-off and power-on stall, and understand the proper recovery procedures"
+				]
+			},
+			{
+				"name": "TOLsAATD1",
+				"content": [
+					"Communications",
+					"Takeoff Briefing",
+					"Normal Takeoff and Climb",
+					"Rejected Takeoff",
+					"Traffic Pattern",
+					"Normal Approach and Landing",
+					"Go-Around / Rejected Landing"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Understands the hazards associated with a flight in the traffic pattern",
+					"Understand the direction, placement, and altitude within the traffic pattern",
+					"Identify the procedures for entering and exiting the traffic pattern",
+					"Identigy information regarding procedures for specific airports foind in the chart supplement"
+				]
+			},
+			{
+				"name": "TOLsAATD2",
+				"content": [
+					"Communications",
+					"Normal and Crosswind Takeoff and Climb",
+					"Rejected Takeoff",
+					"Traffic Pattern",
+					"Normal and Crosswind Approach and Landing",
+					"Side Slip",
+					"Forward Slip to Landing",
+					"Go-Around / Rejected Landing"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Understand the techniques and procedures for a crosswind takeoff and landing",
+					"understand the need to execute and side slip and how to avoid a cross control stall",
+					"Deternime the need for a forward slip and how to porperly execute one"
+				]
+			},
+			{
+				"name": "TOLsAATD3",
+				"content": [
+					"Communications",
+					"Normal Takeoff and Climb",
+					"Rejected Takeoff",
+					"Traffic Pattern",
+					"Normal Approach and Landing",
+					"Side Slip",
+					"Forward Slip to Landing",
+					"Go-Around / Rejected Landing",
+					"Abnormal Operation / Engine Failure in the Climb",
+					"Emergency Approach and Landing"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Understand the importance of an emergency approach and landing considering altitude, wind, terrain, obstructions and available glide distance"
+				]
+			},
+			{
+				"name": "TOLFlight1(Local,2hours)",
+				"content": [
+					"Normal Takeoff and Climb",
+					"Rejected Takeoff(DemonstrationOnly)",
+					"Traffic Pattern",
+					"Normal Approach and Landing",
+					"Go-Around(RejectedLanding)"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Identify each segment of the traffic pattern",
+					"Maintain a visual scan with only brief glances at the instruments"
+				]
+			},
+			{
+				"name": "TOLFlight2(Local,2hours)",
+				"content": [
+					"Normal Takeoff and Climb",
+					"Traffic Pattern",
+					"Normal Approach and Landing",
+					"Go-Around / Rejected Landing"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Identify each segment of the traffic pattern",
+					"Maintain a visual scan with only brief glances at the instruments",
+					"Begin to correlate stages of flight with a specific sight picture"
+				]
+			},
+			{
+				"name": "TOLFlight3(Local,2hours)",
+				"content": [
+					"Communications",
+					"Forward Slip to Landing",
+					"Simulated Engine Failure in the Traffic Pattern"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Gain an understanding of the airport traffic pattern",
+					"Maintain coordinated flight in the traffic pattern",
+					"Maintian appropriate airspeeds in the traffic pattern",
+					"Understand what a stabilized approach is and how it feels",
+					"Begin to develop judement about when a go-around is necessary"
+				]
+			},
+			{
+				"name": "TOLFlight4(Local,2hours)",
+				"content": [
+					"Communications",
+					"Side Slip",
+					"Forward Slip to Landing",
+					"Simulated Engine Failure in the Traffic Pattern"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Gain an understanding of the airport traffic pattern",
+					"Maintain coordinated flight in the traffic pattern",
+					"Maintian appropriate airspeeds in the traffic pattern",
+					"Understand what a stabilized approach is and how it feels",
+					"Begin to develop judement about when a go-around is necessary"
+				]
+			},
+			{
+				"name": "TOLFlight5(Local,2hours)",
+				"content": [
+					"Communications",
+					"Normal Takeoff and Climb",
+					"Rejected Takeoff",
+					"Normal Approach and Landing",
+					"Traffic Pattern",
+					"Forward Slip to Landing",
+					"Go-Around / Rejected Landing",
+					"Simulated Engine Failure in the Traffic Pattern"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Understand the concept of entering and exiting the traffic pattern",
+					"Apply correct crosswind techniquies to maintain ground track in the patten",
+					"Make the appropriate aileron and rudder corrections during crosswind landings",
+					"Consistently make the decision to go-around whenever the outcome of the landing is in doubt or the landing is in doubt or the approach is unstable"
+				]
+			},
+			{
+				"name": "TOLFlight6(Local,2hours)",
+				"content": [
+					"Communications",
+					"Normal Takeoff and Climb",
+					"Normal Approach and Landing",
+					"Traffic Pattern",
+					"Forward Slip to Landing",
+					"Go-Around / Rejected Landing",
+					"Simulated Engine Failure in the Traffic Pattern"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Communicate effectively with ATC or CTAF for the purpose of traffic pattern operations",
+					"Make the decision when appropriate without hesitation or a prompt from the instructor",
+					"Perform a safe landing following an engine-out scenario in the traffic pattern"
+				]
+			},
+			{
+				"name": "TOLFlight1&2(Away,3.5-4.0hours)",
+				"content": [
+					"Normal Takeoff and Climb",
+					"Rejected Takeoff(DemonstrationOnly)",
+					"Review of Escaping Inadvertent Encounters with IMC",
+					"VFR Pilotage",
+					"Traffic Pattern",
+					"Normal Approach and Landing",
+					"Go-Around / Rejected Landing",
+					"Introduction to Cross Country Navigation"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Identify each segment of the traffic pattern",
+					"Maintain Vy through the climb, then transition to cruise climb via the cheklist",
+					"Maintain a visual scan with only brief glances at the instruments",
+					"Begin to correlate stages of flight with a specific sight picture",
+					"Understand Escaping Inadvertent Encounter with IMC"
+				]
+			},
+			{
+				"name": "TOLFlight3&4(Away,3.5-4.0hours)",
+				"content": [
+					"Communications",
+					"Takeoff and Departure to the practice area",
+					"Review Escaping Inadvertent Encounters with IMC",
+					"VFR Pilotage",
+					"Forward Slip to Landing",
+					"Simulated Engine Failure in the Traffic Pattern"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Gain an understand of entering and exiting the traffic pattern",
+					"Maintain coordinated flight in the traffic pattern",
+					"Maintian appropriate airspeeds in the traffic pattern",
+					"Understand what a stabilized approach is and how it feels",
+					"Begin to develop judement about when a go-around is necessary"
+				]
+			},
+			{
+				"name": "TOLFlight5&6(Away,3.5-4.0hours)",
+				"content": [
+					"Communications",
+					"Normal Takeoff and Climb",
+					"Rejected Takeoff",
+					"Review Escaping Inadvertent Encounters with IMC",
+					"Review Cross Country Navigation and VFR Pilotage",
+					"Normal Approach and Landing",
+					"Traffic Pattern",
+					"Forward Slip to Landing",
+					"Go-Around / Rejected Landing",
+					"Simulated Engine Failure in the Traffic Pattern"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Understanding the concept of entering and exiting the traffic pattern",
+					"Apply correct crosswind techniquies to maintain ground track in the patten",
+					"Make the appropriate aileron and rudder corrections during crosswind landings",
+					"Consistently make the decision to go-around whenever the outcome of the landing is in doubt or the landing is in doubt or the approach is unstable"
+				]
+			},
+			{
+				"name": "TOLFlight7(Local,1.7hours)",
+				"content": [
+					"Communications",
+					"Normal Takeoff and Climb",
+					"Normal Approach and Landing",
+					"Traffic Pattern",
+					"Forward Slip to Landing",
+					"Go-Around / Rejected Landing",
+					"Simulated Engine Failure in the Traffic Pattern"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Communicate effectively with ATC or CTAF for the purpose of traffic pattern operations",
+					"Consistently make the decision to go-around whenever the outcome of the landing is in doubt or the landing is in doubt or the approach is unstable",
+					"Perform a safe landing following an engine-out scenario in the traffic pattern"
+				]
+			},
+			{
+				"name": "TOLFlight8(Local,1.7hours)",
+				"content": [
+					"Communications",
+					"Traffic Pattern",
+					"Normal Takeoff and Climb",
+					"Normal Approach and Landing",
+					"Forward Slip to Landing",
+					"Go-Around / Rejected Landing",
+					"Simulated Engine Failure in the Traffic Pattern",
+					"Power-Off Approaches and Landings"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Land without instructor intervention",
+					"Perform all checklists related to pattern work without being prompted by the instructor",
+					"Go-Around when necessary without prompting from the instructor"
+				]
+			},
+			{
+				"name": "TOLFlight9(Local,1.6hours)",
+				"content": [
+					"Communications",
+					"Traffic Pattern",
+					"Normal Takeoff and Climb",
+					"Normal Approach Landing",
+					"Forward Slip to Landing",
+					"Go-Around / Rejected Landing",
+					"Simulated Engine Failure in the Traffic Pattern",
+					"Power-Off Approaches and Landings"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Land without instructor intervention",
+					"Perform all checklists related to pattern work without being prompted by the instructor",
+					"Go-Around when necessary without prompting from the instructor"
+				]
+			},
+			{
+				"name": "SoloPrepFlight1(Local,2hours)",
+				"content": [
+					"Normal Takeoff and Climb",
+					"Slow Flight",
+					"Power-off stall",
+					"Power-off stall in a bank",
+					"Power-on stall",
+					"Power-on stall in a bank",
+					"Steep Turns",
+					"Basic Instrument Flight"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Show increased proficeincy with maneuvers since maneuvers block",
+					"Perform checklists without instructor prompting",
+					"Perform correct unusual attitude recovery procedures",
+					"Perform basic instrument maneuvers in simulated IMC conditions",
+					"Navigate safely to the nearest airport using GPS",
+					"Determine their present position and follow course guidace, radar vector, etc to escape inadvertent IMC"
+				]
+			},
+			{
+				"name": "SoloPrepFlight2(Local,2hours)",
+				"content": [
+					"Normal Takeoff and Climb",
+					"Slow Flight",
+					"Power-off stall",
+					"Power-off stall in a bank",
+					"Power-on stall",
+					"Power-on stall in a bank",
+					"Steep Turns",
+					"Basic Instrument Flight"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Show increased proficeincy with maneuvers since maneuvers block",
+					"Perform checklists without instructor prompting",
+					"Perform correct unusual attitude recovery procedures",
+					"Perform basic instrument maneuvers in simulated IMC conditions",
+					"Navigate safely to the nearest airport using GPS",
+					"Determine their present position and follow course guidace, radar vector, etc to escape inadvertent IMC"
+				]
+			},
+			{
+				"name": "SoloPrepFlight3(Local,2Hours)",
+				"content": [
+					"Flight Instrument Check",
+					"Normal Takeoff and Climb",
+					"Rectangular Course",
+					"Turns Around a Point",
+					"S-Turns",
+					"Simulated Engine-Out Scenario",
+					"Emergency Descent",
+					"System and Equipment Malfunctions",
+					"Turns to Headings",
+					"Recovery from Unusual Flight Attitudes",
+					"Normal Approach Landing"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"know the correct 'flow' in an engine-out scenario, though not necessarily to ACS standards",
+					"Respond to an engine-out scenario by referencing the emergency checklist",
+					"Have a general understanding of how the wind will affect ground reference maneuvers and make appropriate corrections",
+					"Show increased proficeincy with ground referance maneuvers since maneuvers block"
+				]
+			},
+			{
+				"name": "SoloPrepFlight4(Local,2Hours)",
+				"content": [
+					"Flight Instrument Check",
+					"Normal Takeoff and Climb",
+					"Rectangular Course",
+					"Turns Around a Point",
+					"S-Turns",
+					"Simulated Engine-Out Scenario",
+					"Emergency Descent",
+					"System and Equipment Malfunctions",
+					"Turns to Headings",
+					"Recovery from Unusual Flight Attitudes",
+					"Normal Approach Landing"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"know the correct 'flow' in an engine-out scenario, though not necessarily to ACS standards",
+					"Respond to an engine-out scenario by referencing the emergency checklist",
+					"Have a general understanding of how the wind will affect ground reference maneuvers and make appropriate corrections",
+					"Show increased proficeincy with ground referance maneuvers since maneuvers block"
+				]
+			},
+			{
+				"name": "SoloPrepFlight5(Local,2Hours)",
+				"content": [
+					"Normal Takeoff and Climb",
+					"Pattern Work",
+					"Normal Approach Landing",
+					"Forward Slip to Landing",
+					"Go-Around / Rejected Landing",
+					"System and Equipment Malfunctions",
+					"How to Seed Radar Services",
+					"Emergency Approach and Landing",
+					"Power-Off Approaches and Landings"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Make unprompted decision to go-around without hesitiation when the conditions for a stabilized approach are not met",
+					"Perform a safe landing in less than ideal conditions",
+					"Perform a forward slip followed by a successful landing",
+					"Maintain positive control of the aircraft during a forward slip"
+				]
+			},
+			{
+				"name": "SoloPrepFlight6(Local,2Hours)",
+				"content": [
+					"Normal Takeoff and Climb",
+					"Pattern Work",
+					"Normal Approach Landing",
+					"Forward Slip to Landing",
+					"Go-Around / Rejected Landing",
+					"System and Equipment Malfunctions",
+					"How to Seed Radar Services",
+					"Emergency Approach and Landing",
+					"Power-Off Approaches and Landings"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Make unprompted decision to go-around without hesitiation when the conditions for a stabilized approach are not met",
+					"Perform a safe landing in less than ideal conditions",
+					"Perform a forward slip followed by a successful landing",
+					"Maintain positive control of the aircraft during a forward slip"
+				]
+			},
+			{
+				"name": "SoloPrepFlight1-2(Away,3.5-4.0hours)",
+				"content": [
+					"Normal Takeoff and Climb",
+					"Slow Flight",
+					"Power-off stall",
+					"Power-off stall in a bank",
+					"Power-on stall",
+					"Power-off stall in a bank",
+					"Steep Turns",
+					"Basic Instrument Flight",
+					"Constant Airspeed Climbs",
+					"Constant Airspeed Descents",
+					"Normal Approach and Landing"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Show increased proficeincy with maneuvers since maneuvers block",
+					"Perform checklists without instructor prompting",
+					"Perform correct unusual attitude recovery procedures",
+					"Perform basic instrument maneuvers in simulated IMC conditions",
+					"Navigate safely to the nearest airport using GPS",
+					"Determine their present position and follow course guidace, radar vector, etc to escape inadvertent IMC"
+				]
+			},
+			{
+				"name": "SoloPrepFlight3-4(Away,3.5-4.0hours)",
+				"content": [
+					"Flight Instrument Check",
+					"Normal Takeoff and Climb",
+					"Rectangular Course",
+					"Turns Around a Point",
+					"S-Turns",
+					"Simulated Engine-Out Scenario",
+					"Emergency Descent",
+					"System and Equipment Malfunctions",
+					"Turns to Headings",
+					"Recovery from Unusual Flight Attitudes",
+					"Normal Approach Landing"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"know the correct 'flow' in an engine-out scenario, though not necessarily to ACS standards",
+					"Respond to an engine-out scenario by referencing the emergency checklist",
+					"Have a general understanding of how the wind will affect ground reference maneuvers and make appropriate corrections",
+					"Show increased proficeincy with ground referance maneuvers since maneuvers block"
+				]
+			},
+			{
+				"name": "SoloPrepFlight5-6(Away,3.5-4.0hours)",
+				"content": [
+					"Normal Takeoff and Climb",
+					"Pattern Work",
+					"Normal Approach Landing",
+					"Forward Slip to Landing",
+					"Go-Around / Rejected Landing",
+					"System and Equipment Malfunctions",
+					"How to Seed Radar Services",
+					"Emergency Approach and Landing",
+					"Power-Off Approaches and Landings"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Make unprompted decision to go-around without hesitiation when the conditions for a stabilized approach are not met",
+					"Perform a safe landing in less than ideal conditions",
+					"Perform a forward slip followed by a successful landing",
+					"Maintain positive control of the aircraft during a forward slip"
+				]
+			},
+			{
+				"name": "SoloPrepFlight7(Local,1.7hours)",
+				"content": [
+					"Preflight and Ground Procedures",
+					"Air Traffic Control Clearances and Procedures",
+					"Traffic Pattern Operations",
+					"Checklists and Procedures",
+					"Crosswind Landings",
+					"Checklist Usage"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Make unprompted decision to reject a takeoff when needed",
+					"Make unprompted decision to go-around without hesitiation when the conditions for a stabilized approach are not met",
+					"Make an informed go/no-go decision based on weather and aircraft performance",
+					"Gather weather information independenrly and know the significance of the information gathered",
+					"Devide their attention appropriately between aircraft conrol, visual scanning, checklist usage, and radio communications"
+				]
+			},
+			{
+				"name": "SoloPrepFlight8(Local,1.7hours)",
+				"content": [
+					"Normal Takeoff and Climb",
+					"Traffic Pattern Operations",
+					"Normal Approach and Landing",
+					"Communications",
+					"Simulated Engine Faulure"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Understand the responsibilites of the PIC",
+					"Determine the proper runway for traffic pattern operations based on wind direction and speed",
+					"Sucessfully conduct a power off approach using no more than 1/3 of the active runway",
+					"Complete each checklist related to traffic pattern operation correctly without prompting",
+					"Perform takeoffs and landings safely and correctly, without input or coaching from the instructor"
+				]
+			},
+			{
+				"name": "SoloPrepFlight9(Local,1.6hours)",
+				"content": [
+					"Normal Takeoff and Climb",
+					"Rejected Takeoff",
+					"Traffic Pattern Operations",
+					"Normal Approach and Landing",
+					"Communications",
+					"Simulated Engine Failure in the Traffic Pattern"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Understand the criterial for a satisfactoty solo evaluation",
+					"Opt to make a full-stop landing each time without being prompted",
+					"Complete each checklist related to traffic pattern operation correctly without prompting",
+					"Perform takeoffs and landings safely and correctly, without input or coaching from the instructor"
+				]
+			},
+			{
+				"name": "StudentSoloTOLFlight1(1.3hours)",
+				"content": ["Warmup", "3 Solo Takeoffs and Landings"],
+				"briefNotes": "",
+				"completionStandards": [
+					"During the warm-up students must demonstrate two satisfactory full-stop landings and one go-around, alll without input from the instructor. If they do not, DO NOT solo your student."
+				]
+			},
+			{
+				"name": "StudentSoloTOLFlight2&3(1.3hours)",
+				"content": ["Warmup", "8 solo TOLs"],
+				"briefNotes": "",
+				"completionStandards": [
+					"During the warm-up students must demonstrate two satisfactory full-stop landings and one go-around, alll without input from the instructor. If they do not, DO NOT solo your student.",
+					"After the solo, the student whould report confidence and ease in the traffic pattern"
+				]
+			},
+			{
+				"name": "CrossCountryAATD1",
+				"content": [
+					"Flying the cross country route using the navlog",
+					"Entering and Modifying Flight Plans in the Garmin",
+					"Basic Instrument Flight",
+					"Using the Nearest Page to Identify Diversion Airports",
+					"Navigation using the Garmin",
+					"Identifying Airspace using the Garmin",
+					"System and Equipment Malfunctions",
+					"Emergency Procedures"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Demonstrate correct use of a navlog",
+					"Make proper use of the eletronic navigaion systems"
+				]
+			},
+			{
+				"name": "DualXCFlight1",
+				"content": [
+					"Flight Deck Management",
+					"VFR Flight Following",
+					"Correlating Visable Features on the Ground with Symbols on the VFR Sectionals",
+					"Dead Reckoning Calculations",
+					"Situational Awareness",
+					"Visual Scanning/Collision Avoidance"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Safely naviagte the three legs of this flight by pilotage and dead reckoning",
+					"Recognize current weather conditions and compare with forecasted conditions",
+					"Apply corrections, as necessary, to maintain course and estimated times en route",
+					"Execute usassisted, full-stop landings at each airport",
+					"Independently communicate with ATC or on CTAF, only requiring prompting or guidance with unfamiliar radio calls"
+				]
+			},
+			{
+				"name": "DualXCFlight2",
+				"content": [
+					"VFR Flight Following",
+					"Ground Based Navigation Systems",
+					"Triangulating Position Using Two VORs",
+					"Satellite Based Navigation Systems",
+					"Short-Field Takeoff/Landing (demonstration)",
+					"Soft-Field Takeoff/Landing (demonstration)"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Pass a comprehensive cross-country evaluation after this flight",
+					"Collection all information relevant to the flight including NOTAMs, weather, and airport information and make an informed go/no-go decision",
+					"During a diversion scenario, select and navigate to an appropriate airport",
+					"Demonstrate safe ADM during scenarios such as abnormal aircraft indications, deteriorating weather, and other situations that may arise"
+				]
+			},
+			{
+				"name": "NightFlight1",
+				"content": [
+					"Night Taxi",
+					"Pilotage using night visual references",
+					"Use of a nav log",
+					"Pick up flight following",
+					"10 full-stop landings"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Understand the hazards of night flight and be capable of exercising safe ADM",
+					"The student should now match colors with airport lighting",
+					"The student should identify the direction of movement by other aircraft position lights"
+				]
+			},
+			{
+				"name": "SoloXCFlight1and2 (7hourstotal)",
+				"content": [
+					"Warmup",
+					"Conduct Solo XC",
+					"Secure Aircraft when Complete"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Feel confident and ease in navigating the route and making required communications"
+				]
+			},
+			{
+				"name": "SoloFinish-UpAudit(TOLorXC)",
+				"content": ["Make best decistion to meet required solo time"],
+				"briefNotes": "",
+				"completionStandards": ["Student finishes solo block"]
+			},
+			{
+				"name": "PrivateCheckridePrepFlight1(2hours)",
+				"content": [
+					"Pilotage and Dead Reckoning",
+					"Diversion",
+					"Short-Field Takeoff and Landing",
+					"Soft-Field Takeoff and Landing",
+					"Forward Slip to Landing",
+					"Slow Flight",
+					"Power-off stall",
+					"Power-on stall",
+					"Steep Turns",
+					"Ground Reference Maneuvers",
+					"Recovery from Unusual Flight Attitudes",
+					"Simulated Emergency",
+					"Emergency Descent"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Have a firm idea of that will be expected of them on the check ride",
+					"Be confident in their ability to pass most, if not all, the elements of the flight, and know what to focus on during the next checkride prep flight"
+				]
+			},
+			{
+				"name": "PrivateCheckridePrepFlights2and3(2hourseach)",
+				"content": [
+					"Short-Field Takeoff and Landing",
+					"Soft-Field Takeoff and Landing",
+					"Forward Slip to Landing",
+					"Slow Flight",
+					"Power-off stall",
+					"Power-on stall",
+					"Steep Turns",
+					"Ground Reference Maneuvers",
+					"Recovery from Unusual Flight Attitudes",
+					"Simulated Emergency",
+					"Emergency Descent"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Feel confident in their ability to pass the Private Pilot Checkride"
+				]
+			}
+		]
+	},
+	"instrument": {
+		"Lessons": [
+			{
+				"name": "TOL & Maneuvers AATD",
+				"content": [
+					"Checklist Usage",
+					"Normal Takeoff and Climb",
+					"Normal Approach and Landing",
+					"Maneuvering During Slow Flight",
+					"Forward Slip to Landing",
+					"Power-Off / Power-On Stalls",
+					"Steep Turns",
+					"S-Turns",
+					"Rectangular Course",
+					"Turns Around a Point"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Checklist Usage",
+					"Procedures for Normal and Crosswind Landing",
+					"Maneuvers Completed within private standards",
+					"Proper conditions for a stablilized approach"
+				]
+			},
+			{
+				"name": "TOL Review (Credit Private Only)",
+				"content": [
+					"Communications",
+					"Traffic Pattern",
+					"Normal Takeoff and Climb",
+					"Normal Approach and Landing",
+					"Forward Slip to Landing",
+					"Go-Around / Rejected Landing",
+					"The use of crosswind controls during taxi",
+					"How to correct for winds when flying the traffic pattern"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Demonstrate private pilot level skills in the traffic pattern, including radio communications and traffic pattern operations",
+					"Demonstrate satisfactory crosswind techniques in all stages of ground and flight operations as well as good judgment during abnormal and emergency operations"
+				]
+			},
+			{
+				"name": "Instrument Basics & Procedures AATD 1",
+				"content": [
+					"Normal takeoff",
+					"Climbs into IMC",
+					"Straight- and- level flight",
+					"Standard rate turns to headings",
+					"Airspeed changes in straight- and- level flight",
+					"Descents",
+					"Tuning and Identifying a VOR: Tracking and Intercepting radials, Following Victor Airways",
+					"GPS navigational functions, other than loading instrument procedures: Using the Direct To Function on the GPS.Entering a GPS waypoint manually",
+					"ADC Failure Intro",
+					"Loading STARs into the GPS: Compliance with Arrival Procedures. Radar Vectors in the Terminal Environment. Activating a Leg"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Use a Consistent Scanning Technique",
+					"Use the Flight Instruments to Verify Aircraft Attitude",
+					"Make Standard Rate Turns",
+					"Perform Basic Aircraft Maneuvers (climbs, descents, airspeed changes) in IMC",
+					"Recognize an ADC failure",
+					"Use the GPS to Load and execute a published STAR",
+					"Correctly copy and interpret ATC clearances.",
+					"Set the appropriate communication and navigation systems and transponder codes in accordance with the ATC clearance.",
+					"Intercept, in a timely manner, all courses, radials, and bearings appropriate to the procedure, route, or clearance.",
+					"Tune and Identify a VOR",
+					"Track and Intercept a Radial",
+					"Follow a victor airway",
+					"Enter a GPS Waypoint"
+				]
+			},
+			{
+				"name": "Instrument Basics & Procedures AATD 2",
+				"content": [
+					"Instrument Scan, Instrument Interpretation (REVIEW)",
+					"Straight and Level, Climbs, Turns (REVIEW)",
+					"Partial Panel Introduction",
+					"Loading SIDs in the GPS",
+					"Using the Direct To Function on the GPS",
+					"Entering a GPS waypoint manually",
+					"GPS navigational functions, other than loading instrument procedures",
+					"Take off and Depart Local Airport Using Standard Radio phraseology to tower, departure and ARTCC controllers",
+					"Practice the “hand-off” From controller to controller",
+					"Copying and Following Departure Clearances Towered vs Non-Towered",
+					"Standard Instrument Departure: Textual ODP, Graphical ODP",
+					"Loss of Communications at various points throughout the flight",
+					"Carburetor/Induction Icing",
+					"Instrument / Structural Icing",
+					"Alternator Failure",
+					"Simulated Engine Failure in Instrument Conditions",
+					"ADC or AHRS Failure",
+					"Vacuum Failure",
+					"Tuning and Identifying a VOR"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Obtain IFR Clearance with some coaching from the Instructor",
+					"Check on with the altitude to ATC using Standard phraseology",
+					"Correctly copy and interpret ATC clearances.",
+					"Set the appropriate communication and navigation systems and transponder codes in accordance with the ATC clearance.",
+					"Intercept, in a timely manner, all courses, radials, and bearings appropriate to the procedure, route, or clearance.",
+					"Understand the correct lost communication procedures for a variety of lost communication scenarios.",
+					"Refer to the emergency/abnormal checklist and identify emergency in case of any emergency or abnormal situation, without prompting from the instructor.",
+					"Tune and Identify a VOR: Track and Intercept a Radial, Follow a victor airway",
+					"Enter a GPS Waypoint",
+					"Promptly recognize the loss of primary flight instrument indications and declare an emergency.",
+					"Adjust instrument scan appropriately to compensate for any inoperative equipment.",
+					"After some practice during the AATD, maintain aircraft control in a partial panel situation"
+				]
+			},
+			{
+				"name": "Instrument Basics & Procedures Flight 1",
+				"content": [
+					"Normal Takeoff",
+					"Straight-and-Level Flight",
+					"Standard Rate Turns to Headings",
+					"Airspeed Changes in Straight-and-Level Flight",
+					"Tuning and Identifying a VOR",
+					"Tracking and Intercepting a Radial",
+					"Following Victor Airways",
+					"Using the Direct Function on the GPS",
+					"Entering a GPS Waypoint Manually",
+					"GPS Navigational Functions, Other than Loading Instrument Procedures"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Use a Consistent Scanning Technique",
+					"Use the Flight Instruments to Verify Aircraft Attitude",
+					"Make Standard Rate Turns",
+					"Perform Basic Aircraft Maneuvers (climbs, descents, airspeed changes) in IMC or Using VLD",
+					"Tune and Identify a Local VOR in Flight",
+					"Track and Intercept a Radial",
+					"Follow a Nearby Victor Airway",
+					"Enter a GPS Waypoint During Flight",
+					"Switch between GPS and VLOC Mode"
+				]
+			},
+			{
+				"name": "Instrument Basics & Procedures AATD 3",
+				"content": [
+					"Standard and Nonstandard Holding Procedures: Direct Entry, Teardrop Entry, Parallel Entry",
+					"Intersection Holding",
+					"Published Holds",
+					"Unpublished Holds",
+					"Standard 45° Procedure Turn",
+					"Circling Approach Patterns"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Correctly fly a procedure turn.",
+					"Correctly copy holding instructions and name the appropriate hold entry.",
+					"Perform correct hold entries using direct, parallel, and teardrop and ensure the aircraft remains within the holding pattern airspace for a standard, nonstandard, published, or non-published holding pattern"
+				]
+			},
+			{
+				"name": "Instrument Basics & Procedures AATD 4",
+				"content": [
+					"VOR Approach: Briefing of the approach, On airport approach, Off airport approach",
+					"Full approach form the IAF",
+					"Vectors to final approach course"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Select, tune, and identify the VOR",
+					"Confirm the operational status of the VOR receiver equipment.",
+					"Establish a stabilized approach profile with a rate of descent and track that will ensure arrival at the MDA prior to reaching the MAP.",
+					"When necessary, promptly initiate the missed approach and comply with the published or alternate missed approach procedure"
+				]
+			},
+			{
+				"name": "Instrument Basics & Procedures AATD 5",
+				"content": [
+					"Localizer Approach, Briefing of the approach, Front course, Back course",
+					"Full approach from the IAF",
+					"Vectors to final approach course",
+					"Partial Panel LOC Approach",
+					"Missed Approach Procedures"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Select, tune, and identify the LOC.",
+					"Confirm the operational status of the LOC receiver equipment.",
+					"Establish a stabilized approach profile with a rate of descent and track that will ensure arrival at the MDA prior to reaching the MAP."
+				]
+			},
+			{
+				"name": "Instrument Basics & Procedures Flight 2",
+				"content": [
+					"Standard Rate Turns to Headings (REVIEW)",
+					"Following Course Guidance (REVIEW)",
+					"Picking Up IFR Clearance",
+					"Take-Off and Depart Local Airport Using Standard Radio Communications to Tower, Departure and ARTCC Controllers",
+					"Practice the “Hand-Off” from Controller to Controller"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Communicate with ATC Efficiently While Using Proper Phraseology",
+					"Prepare for the “CRAFT” Clearance and Write it Down / Read it Back Accurately",
+					"Select, tune, and identify the VOR/LOC.",
+					"Confirm the operational status of the VOR/LOC receiver equipment.",
+					"Establish a stabilized approach profile with a rate of descent and track that will ensure arrival at the MDA prior to reaching the MAP.",
+					"Execute the missed approach procedure when the required visual references for the intended runway are not distinctly visible and identifiable at the MAP.",
+					"When required visual references for the intended runway are distinctly visible and identifiable, transition at the MDA to a visual flight condition, allowing for safe visual maneuvering and a normal landing.",
+					"Determine the appropriate minimums for a non-precision approach by considering all relevant information."
+				]
+			},
+			{
+				"name": "Instrument Basics & Procedures AATD 6",
+				"content": [
+					"Vectors to Final Approach Course",
+					"GPS Approach to LNAV minimums",
+					"GPS Approach to LP minimums",
+					"Terminal Arrival Area (TAA) Procedures",
+					"Missed Approach Procedures"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Demonstrate an understanding of the difference between MDA and MAP.",
+					"Establish a stabilized approach profile with a rate of descent and track that will ensure arrival at the MDA prior to reaching the MAP.",
+					"Execute the missed approach procedure when the required visual references for the intended runway are not distinctly visible and identifiable at the MAP.",
+					"Determine the appropriate minimums for an approach by considering all relevant information."
+				]
+			},
+			{
+				"name": "Instrument Basics & Procedures Flight 3",
+				"content": [
+					"Today's Planned Route of Flight",
+					"Enroute to Approach Transitions",
+					"Holding Procedures, Unpublished Hold, Published Hold, Procedure Turn"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Correctly fly a procedure turn in the airplane",
+					"Correctly copy holding instructions and explain the appropriate entry",
+					"Understand correct hold entry and ensure the aircraft remains within the holding pattern airspace for a standard, nonstandard, published, or non published holding pattern"
+				]
+			},
+			{
+				"name": "Instrument Basics & Procedures AATD 7",
+				"content": [
+					"RNAV Approach to LPV or LNAV/VNAV minimums",
+					"Landing from a Straight-In Approach",
+					"Missed Approach Procedure",
+					"Partial Panel GPS Approach"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Select, tune, identify, and confirm the operational status of the navigational equipment.",
+					"Maintain a stabilized final approach from the final approach fix to DA/DH.",
+					"Execute the missed approach procedure when the required visual references for the intended runway are not distinctly visible and identifiable at the DA/DH.",
+					"Understand the basic procedural differences in precision vs. non-precision approaches.",
+					"Understand the basic procedural differences between VOR, ILS, and LOC approaches"
+				]
+			},
+			{
+				"name": "Instrument Basics & Procedures AATD 8",
+				"content": [
+					"ILS Approach",
+					"Landing from a Straight-In Approach",
+					"Missed Approach Procedure",
+					"Partial Panel ILS Approach"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Select, tune, identify, and confirm the operational status of the navigational equipment.",
+					"Maintain a stabilized final approach from the final approach fix to DA/DH.",
+					"Execute the missed approach procedure when the required visual references for the intended runway are not distinctly visible and identifiable at the DA/DH.",
+					"Understand the basic procedural differences in precision vs. non-precision approaches.",
+					"Understand the basic procedural differences between VOR, ILS, and LOC approaches"
+				]
+			},
+			{
+				"name": "Instrument Basics & Procedures Flight 4",
+				"content": [
+					"ILS Approach",
+					"Vectors to Final Approach Course",
+					"Missed Approach Procedures",
+					"Landing from a Straight-In Approach"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Select, tune, identify, and confirm the operational status of the navigational equipment.",
+					"Establish a predetermined rate of descent at the point where the electronic glideslope begins, which approximates that required for the aircraft to follow the glideslope.",
+					"Maintain a stabilized final approach from the final approach fix to DA/DH.",
+					"Execute the missed approach procedure when the required visual references for the intended runway are not distinctly visible and identifiable at the DA/DH.",
+					"Determine the appropriate minimums for a precision approach by considering all relevant information"
+				]
+			},
+			{
+				"name": "Instrument Basics & Procedures AATD 9",
+				"content": [
+					"Circling-only approach",
+					"Circle-to-land procedure from a straight-in approach"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Exhibit adequate knowledge of the elements related to a circling approach procedure.",
+					"Select and comply with appropriate circling approach procedures."
+				]
+			},
+			{
+				"name": "Instrument Basics & Procedures AATD 10",
+				"content": [
+					"DME Arc to Final Approach",
+					"DME Arcs Inbound or outbound from a VOR"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Correctly tune and identify the appropriate navigational facility.",
+					"Correctly copy and interpret arc instructions and comply with appropriate intercept and turn directions."
+				]
+			},
+			{
+				"name": "Instrument Basics & Procedures Flight 5",
+				"content": [
+					"Partial Panel Approach",
+					"Simulated Engine Failure in (simulated) Instrument Conditions",
+					"Simulated Flight into Icing Conditions",
+					"Instrument Approach Procedures",
+					"Lost Comms",
+					"Circling to Land",
+					"Circling Approach Procedures",
+					"Holding Patterns and DME Arcs",
+					"Standard Instrument Arrivals and Departures",
+					"Missed Approach Procedures"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Adjust instrument scan appropriately during simulated partial panel operations.",
+					"Promptly recognize an engine failure simulated by the instructor and establish the appropriate emergency procedure.",
+					"Use SRM: all resources (both on-board the aircraft and from outside sources) to ensure the successful outcome of each approach and the flight is never in doubt.",
+					"Demonstrate a level of proficiency where the student is consistently within ACS standards and can pass the Instrument checkride in the remaining 25+ hours of airplane time and 18 hours of AATD training before the checkride. Conduct a thorough debrief with the student to ensure that they feel confident with their ability to perform, as this is the last flight prior to a progress evaluation"
+				]
+			},
+			{
+				"name": "Instrument Scenarios AATD 1",
+				"content": [
+					"GKY-MEI, See https://secure.atpflightschool.com/s3/get/atp-program-docs/documents/ftd-scenarios.pdf#page=7"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Correctly request the clearance, read it back, and load it into the avionics suite.",
+					"Correctly interpret and execute the planned departure and arrival.",
+					"Have an emergency checklist readily accessible and reference it as appropriate."
+				]
+			},
+			{
+				"name": "Instrument Scenarios AATD 2",
+				"content": [
+					"RAL-VGT, see https://secure.atpflightschool.com/s3/get/atp-program-docs/documents/ftd-scenarios.pdf#page=7"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Correctly request the clearance, read it back, and load it in avionics.",
+					"Correctly interpret and execute the obstacle departure procedure.",
+					"Have an emergency checklist readily accessible and reference it as appropriate.",
+					"Use correct methods to select an appropriate alternate airport to divert to and explain why they chose that particular airport.",
+					"Appropriately identify when the criteria of 14 CFR 91.175 are not met, and execute the applicable missed approach procedure"
+				]
+			},
+			{
+				"name": "Instrument Scenarios AATD 3",
+				"content": [
+					"VGT-IWA, see https://secure.atpflightschool.com/s3/get/atp-program-docs/documents/ftd-scenarios.pdf#page=12"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Correctly request the clearance, read it back, and load it in avionics.",
+					"Correctly interpret and execute the departure procedure.",
+					"Have an emergency checklist readily accessible and reference it as appropriate.",
+					"Use correct methods to select an appropriate alternate airport to divert to and explain why they chose that particular airport.",
+					"Explain the options for activating and canceling an IFR clearance at a Non-towered airport."
+				]
+			},
+			{
+				"name": "Instrument Scenarios AATD 4",
+				"content": [
+					"CRG-ILM, see https://secure.atpflightschool.com/s3/get/atp-program-docs/documents/ftd-scenarios.pdf#page=20"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Use correct methods to select an appropriate alternate airport to divert to and explain why they chose that particular airport.",
+					"Communicate effectively with FSS.",
+					"Communicate effectively with CTAF at the Non-towered airport and transition back to ATC as appropriate.",
+					"Identify the emergency situation as induction and/or instrument icing and perform the necessary corrective actions."
+				]
+			},
+			{
+				"name": "Instrument Scenarios AATD 5",
+				"content": [
+					"IWA-RAL, see https://secure.atpflightschool.com/s3/get/atp-program-docs/documents/ftd-scenarios.pdf#page=30"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Make educated decisions regarding high density altitude operations.",
+					"Reference the emergency checklist as appropriate - have an emergency checklist readily accessible.",
+					"Make safety-focused decisions in compliance with oxygen requirements."
+				]
+			},
+			{
+				"name": "Instrument Scenarios AATD 6",
+				"content": [
+					"ELP, see https://secure.atpflightschool.com/s3/get/atp-program-docs/documents/ftd-scenarios.pdf#page=35"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Make educated decisions regarding high density altitude operations.",
+					"Reference the emergency checklist as appropriate - have an emergency checklist readily accessible"
+				]
+			},
+			{
+				"name": "Instrument Scenarios AATD 7",
+				"content": [
+					"LZU-JQF, see https://secure.atpflightschool.com/s3/get/atp-program-docs/documents/ftd-scenarios.pdf#page=38"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Follow lost communications procedure according to 14 CFR 91.185.",
+					"Execute safety-focused decisions."
+				]
+			},
+			{
+				"name": "Instrument Scenarios AATD 8",
+				"content": [
+					"LZU-TYS, see https://secure.atpflightschool.com/s3/get/atp-program-docs/documents/ftd-scenarios.pdf#page=41"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Follow lost communications procedure according to 14 CFR 91.185.",
+					"Execute safety-focused decisions"
+				]
+			},
+			{
+				"name": "Instrument Cross-Country Flights 1 ~ 3",
+				"content": [
+					"Standard Instrument Departure(s)",
+					"Standard Terminal Arrival(s)",
+					"Instrument Approach",
+					"Simulated Emergency - Partial Panel, Systems Malfunction, etc."
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Approaches: Maintain airspeeds ±10 knots, altitudes ±200 feet (except for minimum descent altitudes and decision altitudes, +200/-0 feet), selected headings ±15°, and track course guidance without the CDI deflection going full-scale."
+				]
+			},
+			{
+				"name": "Instrument Cross-Country Flights 4 and On",
+				"content": [
+					"VOR Receiver Check",
+					"RAIM (and WAAS, if equipped) Check",
+					"Partial Panel Approach(es)"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Approaches: Maintain airspeeds ±10 knots, altitudes ±200 feet (except for minimum descent altitudes and decision altitudes, +200/-0 feet), selected headings ±15°, and track course guidance without the CDI deflection going full-scale."
+				]
+			},
+			{
+				"name": "Commercial Duties-of-PIC Cross Country",
+				"content": [
+					"300 NM total distance",
+					"3 landings at 3 different points, at a minimum",
+					"One point at least 250 NM straight-line distance from point of departure",
+					"Intervention only in case of safety of flight issue or if student makes a mistake"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Safely execute tasks required by the Pilot in Command."
+				]
+			},
+			{
+				"name": "250 NM Cross Country",
+				"content": [
+					"Obtaining IFR Departure Clearance",
+					"ATC Radio Communications",
+					"ILS/Localizer Approach",
+					"RNAV Approach",
+					"VOR Approach",
+					"Arrival Procedures"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Make a go/no-go decision ensuring safety of flight.",
+					"File an Instrument Flight Plan / Alternate Included if Necessary."
+				]
+			},
+			{
+				"name": "Instrument Review AATD",
+				"content": [
+					"Unusual Attitudes",
+					"Emergency Scenarios",
+					"Published and Unpublished Holds",
+					"Approaches to be Flown on Checkride",
+					"Missed and Circling Approaches"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Feel confident in their ability to pass the Instrument Rating Checkride after this AATD"
+				]
+			},
+			{
+				"name": "Instrument Checkride Prep Flight 1 - 2",
+				"content": [
+					"Preflight Preparation",
+					"Preflight Procedures",
+					"Air Traffic Control Clearances and Procedures",
+					"Flight by Reference to Instruments",
+					"Navigation Systems",
+					"Instrument Approach Procedures",
+					"Emergency Operations",
+					"Postflight Procedures"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Feel confident in their ability to pass the Instrument Rating Checkride after this AATD.",
+					"Demonstrate the pilot knowledge and proficiency standards outlined in the current FAA Instrument Rating Airman Certification Standards in each of the listed procedures."
+				]
+			}
+		]
+	},
+	"commercial": {
+		"Lessons": [
+			{
+				"name": "Commercial AATD 1 - 2",
+				"content": [
+					"Steep Turns (but now to 50° bank)",
+					"Maneuvering During Slow Flight",
+					"Power-On / Power-Off Stalls",
+					"Soft-Field Takeoff and Landing",
+					"Short-Field Takeoff and Landing",
+					"Accelerated Stalls",
+					"Chandelles",
+					"Lazy Eights",
+					"Steep Spirals"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Fly TOLs and maneuvers learned in the private stage, to private checkride standards",
+					"Know the flows for commercial maneuvers",
+					"Fly the commercial maneuvers with minimal instructor intervention, mostly to check ride standards",
+					"Understand the flows for the maneuvers not practiced in the AATD"
+				]
+			},
+			{
+				"name": "Commercial AATD 3 - 4",
+				"content": [
+					"Engine Failure during Takeoff",
+					"Engine Failure during Takeoff",
+					"Electrical Fire in Flight",
+					"Other Emergencies Requiring Use of Emergency Checklist",
+					"Engine Failure and Power-Off Landing",
+					"Emergency Descent",
+					"Steep Spirals",
+					"From a random location in the US, follow the 5 C's and locate position",
+					"Using only nearby VORs, find present position",
+					"On a flight between two airports, give a non-urgent scenario (e.g. thunderstorm 50 miles ahead, no way around it) and divert",
+					"Give an urgent scenario (passenger being sick) and divert"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Know when to declare an emergency",
+					"Not hesitate to declare an emergency when appropriate",
+					"Be able to bring the flight to a safe conclusion after each emergency",
+					"Be familiar with all the items on the emergency checklist"
+				]
+			},
+			{
+				"name": "Commercial AATD 5",
+				"content": [
+					"All private maneuvers",
+					"All commercial maneuvers",
+					"Engine failure after takeoff",
+					"Engine failure at altitude",
+					"Diversion",
+					"Lost procedures",
+					"Checkride Content if this sim is to be used in the checkride prep phase"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Demonstrate familiarity with all checklists and maneuver profiles at the rote and understanding levels of learning, prior to applying them in the aircraft."
+				]
+			},
+			{
+				"name": "Commercial Duties-of-PIC Day",
+				"content": ["Intervention Only if Necessary for Safety of Flight"],
+				"briefNotes": "",
+				"completionStandards": [
+					"Devise a plan for the VFR flight including cruising altitude, time enroute, visual waypoints, and a comprehensive review of airspace and terrain along the route",
+					"Manage all radio communication during the flight",
+					"Make all the decisions of the flight required of a Pilot in Command"
+				]
+			},
+			{
+				"name": "Commercial Duties-of-PIC Night",
+				"content": [
+					"10 Takeoffs and Landings at a Controlled Airfield at Night",
+					"Intervention Only if Necessary for Safety of Flight"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Devise a plan for the VFR flight including cruising altitude, time enroute, visual waypoints, and a",
+					"Manage all radio communication during the flight",
+					"Make all the decisions of the flight required of a Pilot in Command"
+				]
+			},
+			{
+				"name": "Commercial Single-Engine Training Flight 1",
+				"content": [
+					"Chandelles",
+					"Lazy Eights",
+					"Accelerated Stalls",
+					"Steep Spirals",
+					"Eights on Pylons",
+					"Power-Off 180° Accuracy Approach and Landing"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Perform the maneuvers required by the Commercial ACS by memory, without prompting from the instructor",
+					"Apply some ground knowledge of the maneuvers to the airplane",
+					"Understand which maneuvers will require the most work on future flights"
+				]
+			},
+			{
+				"name": "Commercial Single-Engine Training Flight 2",
+				"content": [
+					"Steep Turns",
+					"Slow Flight",
+					"Power-On and Power-Off Stalls",
+					"Soft-Field Takeoff and Landing",
+					"Short-Field Takeoff and Landing",
+					"Power-Off 180° Accuracy Approach and Landing"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Perform maneuvers introduced in the private stage, at least to Private ACS standards"
+				]
+			},
+			{
+				"name": "Commercial Single-Engine Training Flights 3-4",
+				"content": [
+					"Navigation-Related Tasks: Pilotage, Dead Reckoning, Diversion, Lost Procedures",
+					"Chandelles",
+					"Lazy Eights",
+					"Accelerated Stalls",
+					"Steep Spirals",
+					"Eights on Pylons",
+					"Steep Turns (to 50° bank)",
+					"Slow Flight",
+					"Power-On and Power-Off Stalls",
+					"Short-Field Takeoff and Landing",
+					"Soft-Field Takeoff and Landing",
+					"Power-Off 180 Accuracy Approach and Landing"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Know what tasks they are ready for on the checkride and what tasks they need work on in the last couple of flights",
+					"Be confident and ready to pass the checkride on most tasks"
+				]
+			},
+			{
+				"name": "Commercial Single-Engine Checkride Prep Flights 1-2",
+				"content": [
+					"Pilotage and Dead Reckoning (Fly to the first waypoint using VFR nav log)",
+					"Slow Flight and Stalls",
+					"Performance Maneuvers",
+					"Ground Reference Maneuvers",
+					"Power-Off 180 Accuracy Approach and Landing",
+					"Performance Takeoffs and Landings"
+				],
+				"briefNotes": "",
+				"completionStandards": [
+					"Understand the purpose of each maneuver and be able to explain in detail how they are performed.",
+					"Pass the commercial single-engine checkride"
+				]
+			}
+		]
+	}
+}
