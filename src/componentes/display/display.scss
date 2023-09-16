@@ -1,5 +1,5 @@
 .displayContainer {
-	padding: 30px;
+	padding: 30px 30px 30px 30px;
 	display: flex;
 	flex-direction: row;
 	width: 100%;
@@ -9,6 +9,7 @@
 	display: flex;
 	flex-direction: column;
 	padding-right: 40px;
+
 	justify-content: space-between;
 	width: 50%;
 }
@@ -16,11 +17,11 @@
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
-	padding-left: 10px;
+	padding-left: 40px;
 }
 .lessonSelect {
 	background-color: rgba($color: #000000, $alpha: 0.4);
-	width: 500px;
+	width: 100%;
 	padding: 10px;
 	overflow-y: hidden;
 	overflow-x: hidden;
@@ -34,8 +35,9 @@
 	flex-direction: column;
 	font-size: 20px;
 	overflow: scroll;
-	height: 355px;
-	width: 500px;
+	height: 317px;
+
+	width: 100%;
 
 	& > *div {
 		padding: 6px;
@@ -43,7 +45,7 @@
 }
 
 .show {
-	height: 390px;
+	height: 350px;
 	transition: ease-in-out 0.2s;
 }
 .hide {
@@ -75,29 +77,37 @@
 .dropDownClosed {
 	transition: ease-in-out 0.2s;
 }
+.dropdownGroup {
+	margin-right: -20px;
+}
 .header {
 	font-size: 30px;
+	padding-bottom: 10px;
+	color: rgb(155, 197, 230);
 }
 .completionStandards {
 	padding-top: 20px;
 	background-color: rgba($color: #000000, $alpha: 0.4);
 	width: 760px;
-	height: 408px;
+	height: 410px;
+	font-size: 14px;
 	border-radius: 10px;
 }
 .content {
 	padding-top: 20px;
 	background-color: rgba($color: #000000, $alpha: 0.4);
 	width: 100%;
-	height: 435px;
+	height: 410px;
+	font-size: 14px;
 	border-radius: 10px;
 	overflow: auto;
 }
 .briefNotes {
-	padding-top: 20px;
+	padding-top: 10px;
 	background-color: rgba($color: #000000, $alpha: 0.4);
 	width: 760px;
-	height: 435px;
+	height: 360px;
 	border-radius: 10px;
 	overflow: auto;
+	user-select: text;
 }

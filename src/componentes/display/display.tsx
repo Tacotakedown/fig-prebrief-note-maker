@@ -30,10 +30,10 @@ const LessonContent: FC<LessonContentProps> = (props: any): JSX.Element => {
 			break;
 	}
 	return (
-		<ul className="content">
-			<div style={{ fontSize: '21px' }}>Lesson Content:</div>
-			{lesson}
-		</ul>
+		<div style={{ fontSize: '28px' }}>
+			Lesson Content:
+			<ul className="content">{lesson}</ul>
+		</div>
 	);
 };
 
@@ -67,10 +67,10 @@ const LessonCompletionStandards: FC<LessonCompletionStandardsProps> = (
 			break;
 	}
 	return (
-		<ul className="completionStandards">
-			<div style={{ fontSize: '21px' }}>Completion Standards:</div>
-			{lesson}
-		</ul>
+		<div style={{ fontSize: '28px' }}>
+			Completion Standards:
+			<ul className="completionStandards">{lesson}</ul>
+		</div>
 	);
 };
 
@@ -108,22 +108,20 @@ const LessonPrebriefNotes: FC<LessonPrebriefNotesProps> = (props: any) => {
 	}
 	let sim = useIsSim(props.unit, props.currentLesson);
 	return (
-		<ul className="briefNotes">
-			<div style={{ fontSize: '21px' }}>
-				Prebrief Notes:
-				<ul style={{ fontSize: '14px' }}>
-					{dutiesOfPic ? (
-						<li>{FIG.snippets.dutiesOfPic}</li>
-					) : (
-						<li>Plan on working on: {lesson}</li>
-					)}
-					<li>{FIG.snippets.readViewDo}</li>
-					{!sim ? <li>{FIG.snippets.meet}</li> : ''}
-					{!sim ? <li>{FIG.snippets.weight}</li> : ''}
-					<li>{FIG.snippets.questions}</li>
-				</ul>
-			</div>
-		</ul>
+		<div style={{ fontSize: '28px' }}>
+			Prebrief Notes:
+			<ul style={{ fontSize: '14px' }} className="briefNotes">
+				{dutiesOfPic ? (
+					<li>{FIG.snippets.dutiesOfPic}</li>
+				) : (
+					<li>Plan on working on: {lesson}</li>
+				)}
+				<li>{FIG.snippets.readViewDo}</li>
+				{!sim ? <li>{FIG.snippets.meet}</li> : ''}
+				{!sim ? <li>{FIG.snippets.weight}</li> : ''}
+				<li>{FIG.snippets.questions}</li>
+			</ul>
+		</div>
 	);
 };
 
@@ -257,11 +255,11 @@ const Display: FC<DisplayProps> = (props: any): JSX.Element => {
 				/>
 			</div>
 			<div className="right">
-				<LessonCompletionStandards
+				<LessonPrebriefNotes
 					unit={props.unit}
 					currentLesson={props.currentLesson}
 				/>
-				<LessonPrebriefNotes
+				<LessonCompletionStandards
 					unit={props.unit}
 					currentLesson={props.currentLesson}
 				/>
