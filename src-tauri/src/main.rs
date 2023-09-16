@@ -3,6 +3,7 @@
 
 use tauri::Manager;
 use window_vibrancy::apply_mica;
+use window_shadows::set_shadow;
 
 fn main() {
   tauri::Builder::default()
@@ -10,6 +11,7 @@ fn main() {
     let window = app.get_window("main").unwrap();
     #[cfg(target_os = "windows")]
     apply_mica(&window, Some(true)).unwrap();
+    set_shadow(&window,true).unwrap();
   Ok(())
   })
     .run(tauri::generate_context!())

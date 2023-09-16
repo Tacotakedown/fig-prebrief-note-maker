@@ -9,7 +9,7 @@ body {
 .root {
 	width: 1800px;
 	height: 1000px;
-	background-color: rgba(0, 0, 0, 0.4);
+	background-color: rgba(0, 0, 0, 0);
 	color: white;
 	font-size: 14px;
 	padding: 00px;

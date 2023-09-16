@@ -4,6 +4,7 @@ import './index.css';
 import { Render } from './hooks/render';
 import { SideBar } from './componentes/sideBar/sideBar';
 import Display from './componentes/display/display';
+import { TitleBar } from './componentes/titlebar/titlebar';
 
 const Index = () => {
 	const [unit, setUnit] = useState(0);
@@ -22,6 +23,7 @@ const Index = () => {
 
 	return (
 		<div className="root">
+			<TitleBar />
 			<SideBar
 				unit={unit}
 				resetLesson={handleResetLesson}
